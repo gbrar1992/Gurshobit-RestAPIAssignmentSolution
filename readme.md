@@ -5,6 +5,27 @@
 
 **Author:** Gurshobit Brar
 
+## Download & Execution
+    
+Download From Releases Section 
+
+[Latest Release v1.0.0](/releases/latest)
+
+or Click on Link Below
+
+[Download JAR File](/releases/download/v1.0.0/EmployeeManagementSystem-1.0.0-SNAPSHOT.jar)
+
+    Execution: java -java EmployeeManagementSystem-1.0.0-SNAPSHOT.jar
+
+    
+## Server Details
+
+    App Url: http://localhost:8085/EmployeeManagementSystem/
+    Url: http://localhost
+    Port: 8085
+    Path: EmployeeManagementSystem/
+
+
 ## Auth Details
 
 **_Username:_** _admin@dummymail.com_
