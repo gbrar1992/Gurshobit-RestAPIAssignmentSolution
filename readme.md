@@ -15,7 +15,7 @@ or Click on Link Below
 
 [Download JAR File](/releases/download/v1.0.0/EmployeeManagementSystem-1.0.0-SNAPSHOT.jar)
 
-    Execution: java -java EmployeeManagementSystem-1.0.0-SNAPSHOT.jar
+    Execution: java -jar EmployeeManagementSystem-1.0.0-SNAPSHOT.jar
 
     
 ## Server Details
